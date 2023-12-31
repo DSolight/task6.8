@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+html, body{
+    height: 100%;
+    font-weight: 800;
+    margin: 0;
+    padding: 0;
+  }
+  
+body{
+    background: #ff9595;
+    font: 40px 'Montserrat';
+}
+
+p{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}

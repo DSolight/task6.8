@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+html, body{
+    height: 100%;
+    font-weight: 800;
+    margin: 0;
+    padding: 0;
+  }
+  
+body{
+    background-image: url(https://img.freepik.com/free-vector/beautiful-watercolor-background_23-2148486848.jpg?w=1800&t=st=1704009067~exp=1704009667~hmac=6c127519fab97d7082264088a694fe7ee856e3ff62e882e7e6616efb474b4cb6);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0%;
+    font: 40px 'Montserrat';
+}
